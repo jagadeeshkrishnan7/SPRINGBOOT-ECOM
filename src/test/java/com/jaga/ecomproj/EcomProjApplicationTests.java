@@ -1,4 +1,4 @@
-package com.telusko.ecomproj;
+package com.jaga.ecomproj;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

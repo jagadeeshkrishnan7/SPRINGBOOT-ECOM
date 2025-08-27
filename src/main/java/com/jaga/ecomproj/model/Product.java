@@ -1,4 +1,4 @@
-package com.telusko.ecomproj.model;
+package com.jaga.ecomproj.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

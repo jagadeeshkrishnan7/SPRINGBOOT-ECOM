@@ -1,6 +1,6 @@
-package com.telusko.ecomproj.repo;
+package com.jaga.ecomproj.repo;
 
-import com.telusko.ecomproj.model.Product;
+import com.jaga.ecomproj.model.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

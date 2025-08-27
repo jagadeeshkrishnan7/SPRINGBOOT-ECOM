@@ -1,7 +1,7 @@
-package com.telusko.ecomproj.controller;
+package com.jaga.ecomproj.controller;
 
-import com.telusko.ecomproj.model.Product;
-import com.telusko.ecomproj.service.ProductService;
+import com.jaga.ecomproj.model.Product;
+import com.jaga.ecomproj.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
